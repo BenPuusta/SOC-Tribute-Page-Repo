@@ -1,1 +1,63 @@
-/* Copy and paste your CSS from CodePen into here */
+element {
+
+}
+
+h1{
+font-size: 4rem;
+margin-bottom: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 1.4rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+  margin: 30;
+}
+
+img {
+max-width:100%;
+display: block;
+height: auto;
+margin:0 auto;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+#img-div {
+  background: red;
+  padding: 10px;
+  margin: 0;
+  border-radius: 70px;
+}
+
+#headline {
+  margin: 50px 0px;
+  text-align: center;
+  
+}
+
+#main {
+  margin: 30px 8px;
+  padding: 20px;
+  border-radius: 9px;
+  background:#F9DCBC;
+}
+
+blockquote {
+  font-style: italic;
+  max-width: 545px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
